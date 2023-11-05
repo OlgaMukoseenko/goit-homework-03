@@ -1,0 +1,113 @@
+.list{list-style-type: none;}
+.add{
+    font-size: 16px;
+    line-height: 1.5;
+    letter-spacing: 0.02em;
+    font-style: normal;
+    color: #434455;
+}
+body {
+    color: #434455;  
+    background-color: #FFFFFF;
+    font-family: "Roboto", sans-serif;}
+a{
+    font-weight: 500;
+    line-height: 1.5;
+    letter-spacing: 0.02em;
+    color:#2e2f42;
+}
+a:hover{color: #404bbf;}
+a:focus{
+    color: #404bbf;
+}
+
+
+.head-sp{color:#2e2f42; }
+.adres{font-style: normal;}
+.logo{
+    font-family: "Raleway", sans-serif;
+    font-weight: 700;
+    font-size: 18px;
+    line-height: 1.17;
+    letter-spacing: 0.03em;
+    text-transform: uppercase;
+    color: #4d5ae5;
+}
+.sect-f{
+    background-color:#2e2f42;
+}
+.nazv{
+    font-size: 56px;
+    line-height: 1.07;
+    text-align: center;
+    letter-spacing: 0.02em;
+    color: #ffffff;
+}
+.but{
+    background-color: #4D5AE5;
+    font-family: "Roboto", sans-serif;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 1.5;
+    letter-spacing: 0.04em;
+    color: #ffffff;
+    cursor: pointer;
+}
+.but:hover{
+    background-color: #404BBF;
+}
+button:focus {
+    background-color: #404BBF
+  }
+.fut{
+    background-color: #F4F4FD;
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 1.2;
+    letter-spacing: 0.02em;
+    color: #2e2f42;
+}
+.strat{
+    line-height: 1.5;
+    letter-spacing: 0.02em;  
+}
+.foot{
+    background-color: #2e2f42;
+}
+.foot-p{
+    line-height: 1.5;
+    color: #F4F4FD;
+    letter-spacing: 0.02em;
+}
+.foot-sp{
+    color: #f4f4fd;
+}
+.hdva{
+    font-size: 36px;
+    line-height: 1.11;
+    text-align: center;
+    letter-spacing: 0.02em;
+    text-transform: capitalize;
+    color: #2e2f42;
+}
+.htri{
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 1.2;
+    letter-spacing: 0.02em;
+    color:  #2e2f42;
+}
+.parag{
+    letter-spacing: 0.02em;
+    font-size: 16px;
+    line-height: 1.5;
+    letter-spacing: 0.02em;
+}
+.sect-team{
+    background-color: #F4F4FD;
+}
+.team-li{
+    background-color: #FFFFFF;
+}
+.menu-li{color:#2e2f42;}
+.menu-address{color:#434455;}
